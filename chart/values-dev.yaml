@@ -1,7 +1,7 @@
 vote:
   replicaCount: 2
   image:
-    repository: initcron/initcron
+    repository: rawatvinod4164/vote
     pullPolicy: IfNotPresent
     tag: 1065b15
   imagePullSecrets: []
