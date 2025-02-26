@@ -3,7 +3,7 @@ vote:
   image:
     repository: rawatvinod4164/vote
     pullPolicy: IfNotPresent
-    tag: 1065b15
+    tag: 6cf51a4
   imagePullSecrets: []
   nameOverride: ""
   fullnameOverride: ""
